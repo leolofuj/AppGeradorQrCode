@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppGeradorQRCode</string>
+    <string name="gerador_de_qr_code">Gerador de QR Code</string>
+    <string name="digite_o_conte_qr_code">Digite o conteúdo do QR Code..</string>
+    <string name="gerar_qr_code">GERAR QR CODE</string>
+    <string name="imagem_qr_code">Imagem QR CODE</string>
+</resources>
