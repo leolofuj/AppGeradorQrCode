@@ -1,7 +1,7 @@
 # AppGeradorQrCode
 App Gerador QrCode
 
-Projeto válido para o curso Desenvolvimento Android 2022 - Crie 13 apps completos, do site Udemy.com, que conciste em gerar um QR Code a partir de um texto digitado pelo usuário. 
+Projeto válido para o curso Desenvolvimento Android 2022 - Crie 13 apps completos, do site Udemy.com, que consiste em gerar um QR Code a partir de um texto digitado pelo usuário. 
 Este projeto contribuiu imensamente para o entendimento da utilização da IDE Android Studio, juntamente com a linguagem Java, e o uso dos resources da plataforma como drawables, layouts e values.
 Ótimo curso e excelentes aulas do professor Marco Aurélio Dias de Oliveira, com quem estou aprendendo muito.
 
